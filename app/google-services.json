@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988644759588",
+    "project_id": "papin-660a5",
+    "storage_bucket": "papin-660a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988644759588:android:5fc14ef6bdbcb89d34a0b1",
+        "android_client_info": {
+          "package_name": "com.khoirudin.PAPin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAbcjQZubdzTsmqleMPv43vd2sU0ypaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
